@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Layout</title>
+</head>
+<body>
+    <table width="80%" border="1" cellspacing="0" align="center">
+        <tr>
+            <td colspan="2">
+                <h1>Site Name</h1>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <a href="">Home</a> |
+                <a href="">About Us</a> |
+                <a href="">Gallery</a> |
+                <a href="">Contact</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h2>Sub Heading</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel massa et nulla volutpat porttitor.</p>
+                <p>Nam gravida ligula non ullamcorper suscipit. Praesent ante nisl, vulputate sed sapien sit amet, blandit aliquet lorem.</p>
+            </td>
+            <td>
+                <!-- You can put a sidebar, image, or ads here -->
+                <h3>Side Panel</h3>
+                <p>This can be used for ads or additional links.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
